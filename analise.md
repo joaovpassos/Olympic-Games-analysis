@@ -4,7 +4,7 @@
 
 ---
 <div style="text-indent: 30px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primeiramente, peguei o total de medalhas de cada país que participou dos jogos e os separei entre os continentes que fizeram parte da competição.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primeiramente, peguei o total de medalhas de cada país que participou dos jogos e os separei entre os continentes que fizeram parte da competição. A partir daí, realizei a análise do desempenho de cada continente nas últimas 6 edições dos jogos olímpicos.
 </div>
 
 <p align="right">
@@ -15,7 +15,7 @@
 
 <div style="text-indent: 30px;">
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Através desse site, foi possível inferir que, apesar da Europa ter caído de desempenho entre os anos de 2008, 2012 e 2016, o continente foi capaz de se recuperar nos últimos jogos olímpicos, realizado em Tóquio, no Japão.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Através desse gráfico, foi possível inferir que, apesar da Europa ter caído de desempenho entre os anos de 2008, 2012 e 2016, o continente foi capaz de se recuperar nos últimos jogos olímpicos, realizados em Tóquio, no Japão.
 </p>
 
 <p>
@@ -24,7 +24,7 @@
 </div>
 
 <div style="text-indent: 30px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outro gráfico interessante é em relação ao total de medalhas de Ouro. Alguns países, apesar de um bom desempenho no número total de medalhas, acabaram tendo uma rendimento abaixo no que diz respeito às medalhas de Ouro.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outro gráfico interessante é em relação ao total de medalhas de ouro. Alguns países, apesar de um bom desempenho no número total de medalhas, acabaram tendo uma rendimento abaixo no que diz respeito às medalhas de ouro.
 </div>
 
 <p align="right">
@@ -36,7 +36,7 @@
 
 <div style="text-indent: 30px;">
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os continentes asiático e americano são bem parecidos no número de medalhas de Ouro conquistadas. Mas o o que chama atenção são os anos de 2008 e 2016. No primeiro, a Ásia teve um desempenho muito acima, já o americano foi abaixo da sua média. O interessante é que, nessa edição, os jogos foram disputados na China, que pertence à Ásia. Em contrapartida, no ano de 2016, o continente americano sediou as olimpíadas, na cidade do Rio de Janeiro, e nessa edição a América conseguiu sua única vitória contra a Ásia no quesito medalhas de Ouro.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os continentes asiático e americano são bem parecidos no número de medalhas de ouro conquistadas. Mas o o que chama atenção são os anos de 2008 e 2016. No primeiro, a Ásia teve um desempenho muito acima, já o americano foi abaixo da sua média. O interessante é que, nessa edição, os jogos foram disputados na China, que pertence à Ásia. Em contrapartida, no ano de 2016, o continente americano sediou as olimpíadas, na cidade do Rio de Janeiro, e nessa edição a América conseguiu sua única vitória contra a Ásia no quesito medalhas de ouro.
 </p>
 
 <p>
@@ -62,7 +62,7 @@
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em <span style="color:#0471A6">azul</span> estão os continentes que sediaram os jogos olímpicos nos respectivos anos.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nos 6 anos analisados, tivemos: duas olimpíadas na Europa (2004 e 2012), duas na Ásia (2008 e 2020), uma na América (2016) e uma na Oceania (2000).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nos 6 anos analisados, tivemos duas olimpíadas na Europa (2004 e 2012), duas na Ásia (2008 e 2020), uma na América (2016) e uma na Oceania (2000).
 </p>
 </div>
 
@@ -104,7 +104,7 @@
 <p style="text-indent: 30px;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Em <span style="color:#0471A6">azul</span> estão os países que após receberem as nações do mundo todo em sua casa, conseguiram não só manter um nível de desempenho, como também aumentá-lo. Já em <span style="color:#F95738">laranja</span> estão os países que não conseguiram manter suas melhores marcas nos anos seguintes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logo de cara já percebemos a maioria dos países tiveram uma queda significativa de desempenho nos anos seguintes. Além disso, os países que conseguiram melhorar suas marcas, tiveram resultados minimamente melhores que os anteriores.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logo de cara, já percebemos que a maioria dos países tiveram uma queda significativa de desempenho nos anos seguintes. Além disso, os países que conseguiram melhorar suas marcas, tiveram resultados minimamente melhores que os anteriores.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com base nos dois gráficos, podemos chegar em algumas conclusões interessantes:
 </p>
