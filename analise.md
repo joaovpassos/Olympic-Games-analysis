@@ -1,4 +1,4 @@
-# Análise Descritiva: Jogos Olímpicos (2020-2000)
+# Análise Descritiva: Jogos Olímpicos (2000-2020)
 
 ### Nessa análise eu irei expor algumas informações extraídas dos dados referente aos Jogos Olímpicos entre os anos de 2000 e 2020.
 
